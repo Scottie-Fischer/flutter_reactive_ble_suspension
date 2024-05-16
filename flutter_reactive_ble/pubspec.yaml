@@ -26,9 +26,9 @@ dependencies:
 
 dependency_overrides:
   reactive_ble_mobile:
-    path: ../reactive_ble_mobile
+    path: ./reactive_ble_mobile
   reactive_ble_platform_interface:
-    path: ../reactive_ble_platform_interface
+    path: ./reactive_ble_platform_interface
 
 dev_dependencies:
   build_runner: ^2.3.3

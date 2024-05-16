@@ -22,7 +22,7 @@ dev_dependencies:
 
 dependency_overrides:
   reactive_ble_platform_interface:
-    path: ../reactive_ble_platform_interface
+    path: ./reactive_ble_platform_interface
 
 flutter:
   plugin:
